@@ -1,0 +1,68 @@
+body{
+	  background-color:#800000;
+	  border:20px dashed rgb(255, 102, 0);
+	  padding-left:20px;
+	  padding-right:25px;
+}
+#header{
+	text-align:right;
+	color:green;
+	font-weight:bold;
+	font-family:algerian;
+	font-size:25px;
+}
+section.hero{
+    display: flex;
+    height:auto;
+    width:20px;
+	color:green;
+	font-weight:bold;
+}
+.button{
+    color:rgb(0, 0, 255);
+    font-size:200%;
+	background-color:grey;
+  
+}
+#title{
+	font-size:250%;
+	text-shadow:4px 2px red;
+	color:	rgb(100, 51, 255);
+	letter-spacing:10px;
+	display:block;
+	text-decoration: underline;
+}
+section.cont{
+	color:	hsl(60, 100%, 50%);
+	font-family:arial;
+}
+.form1{
+	color:hsl(240, 100%, 20%);
+	font-family:verdana;
+	font-size:170%;
+	font-weight:bold;
+	text-decoration: underline overline;
+	background-color:yellow;
+}
+.form2{
+	color:#00ff00;
+	font-weight:strong;
+	
+}
+.activities{
+	color:	rgb(191, 0, 255);
+	font-size:100%;
+	font-family:arial-block;
+	padding-left:400px;
+}
+.footer{
+	font-size:150%;
+	color:red;
+	line-height:50px;
+	background-color:lime;
+}
+img[src]{
+	width:235px;
+	height:auto;
+}
+
